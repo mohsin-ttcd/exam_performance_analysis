@@ -1,0 +1,11 @@
+# all test python file
+test.py
+
+# extra data and large file
+test.csv
+Research questions .txt
+
+
+# Operating system files
+.DS_Store
+Thumbs.db
