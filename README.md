@@ -1,2 +1,2 @@
-# Learners exam performance analysis
-Data analysis and visualization of students' exam scores to identify learning trends and performance factors.
+# Learners performance analysis
+Concept: Build an analysis engine that processes raw CSV data mimicking real-world educational datasets like PISA (which measures 15-year-olds' abilities in mathematics, reading, and writing to meet real-life challenges) or OULAD (which tracks student interactions and demographics in virtual learning environments).
