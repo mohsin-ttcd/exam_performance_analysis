@@ -1,14 +1,5 @@
 
-# Import pandas and saved give it a nick name pd
-import pandas as pd
-
-# Import full table as DataFrame
-df = pd.read_csv("Student-Data/StudentsPerformance.csv")
-
-# print first 5line of Data Set
-print(df.head())
-
-# 1. What are the average marks in Math, Reading, and Writing?
-
-
-
+# Open file at complexity of O(n)  where $N$ is the total number of lines in the file
+with open("Student-Data/student_data.csv", "r") as f:
+    for i in f:
+        print(i.strip())
